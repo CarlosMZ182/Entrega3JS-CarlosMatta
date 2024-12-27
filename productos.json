@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Polera Goku",
+    "precio": 1200,
+    "imagen": "https://cdnx.jumpseller.com/dropp-merch-cl/image/53679234/131.jpg?1729553268",
+    "desc": "Polera inspirada en Goku, ideal para los fanáticos de Dragon Ball."
+  },
+  {
+    "id": 2,
+    "nombre": "Polera Naruto",
+    "precio": 1500,
+    "imagen": "https://cdnx.jumpseller.com/dropp-merch-cl/image/53437677/52.jpg?1729555775",
+    "desc": "Polera temática de Naruto, perfecta para los seguidores del anime."
+  },
+  {
+    "id": 3,
+    "nombre": "Polera Luffy",
+    "precio": 1400,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_717649-MLC71779673626_092023-F.webp",
+    "desc": "Polera del icónico pirata Luffy, ideal para los amantes de One Piece."
+  },
+  {
+    "id": 4,
+    "nombre": "Polera Itachi",
+    "precio": 1550,
+    "imagen": "https://cdnx.jumpseller.com/estampados-bettoskys/image/27997301/resize/640/640?1664695732",
+    "desc": "Polera de Itachi Uchiha, con diseño exclusivo para fanáticos."
+  },
+  {
+    "id": 5,
+    "nombre": "Polera Sasuke",
+    "precio": 1800,
+    "imagen": "https://cdnx.jumpseller.com/dropp-merch-cl/image/53437455/66.jpg?1729555731",
+    "desc": "Polera de Sasuke Uchiha, ideal para quienes admiran su estilo."
+  },
+  {
+    "id": 6,
+    "nombre": "Polera Vegeta",
+    "precio": 1500,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_909404-MLC49174950764_022022-F.webp",
+    "desc": "Polera de Vegeta, perfecta para los que apoyan al Príncipe Saiyajin."
+  },
+  {
+    "id": 7,
+    "nombre": "Polera Jiraiya",
+    "precio": 1250,
+    "imagen": "https://cdnx.jumpseller.com/estampados-bettoskys/image/27997230/resize/640/640?1664694251",
+    "desc": "Polera de Jiraiya, ideal para los seguidores del legendario sannin."
+  },
+  {
+    "id": 8,
+    "nombre": "Polera Neji",
+    "precio": 1550,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_958879-MLC48316804449_112021-F.webp",
+    "desc": "Polera de Neji Hyuga, con diseño inspirado en su legado."
+  },
+  {
+    "id": 9,
+    "nombre": "Polera Killua",
+    "precio": 1700,
+    "imagen": "https://poleradicto.cl/wp-content/uploads/2023/03/MCH1909-01.jpg",
+    "desc": "Polera de Killua Zoldyck, perfecta para los fanáticos de Hunter x Hunter."
+  },
+  {
+    "id": 10,
+    "nombre": "Polera Gon",
+    "precio": 1800,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_937491-MLC51265756618_082022-F.webp",
+    "desc": "Polera de Gon Freecss, con diseño que captura su espíritu aventurero."
+  }
+]
